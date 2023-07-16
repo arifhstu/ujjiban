@@ -473,6 +473,13 @@ h6 {
     height: 40vh;
     margin-top: 75px;
   }
+  @media (max-width: 400px) {
+    #hero {
+      /* width: 380px; */
+      height: 20vh;
+    }
+  
+
 
   #hero h1 {
     font-size: 28px;
